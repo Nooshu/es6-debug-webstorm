@@ -11,8 +11,8 @@
     "gulp": "^3.9.0",
     "gulp-babel": "^6.1.0",
     "gulp-cli": "^1.0.0",
-    "gulp-sourcemaps": "^1.6.0",
-    "mocha": "^2.3.4"
+    "gulp-sourcemaps": "^2.6.0",
+    "mocha": "^3.3.0"
   },
   "scripts": {
     "test": "mocha test --compilers js:babel-core/register"
