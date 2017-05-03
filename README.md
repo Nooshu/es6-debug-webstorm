@@ -1,5 +1,7 @@
 # Debugging ES6 in WebStorm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stefanwalther/es6-debug-webstorm.svg)](https://greenkeeper.io/)
+
 > Just a short reminder for myself how to get debugging to work in WebStorm with ES6.
 > If it helps also you, then great! ;-)
 
